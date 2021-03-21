@@ -1,3 +1,10 @@
+
+# Setup
+
+### Make an API key following the steps here: https://developers.themoviedb.org/3/getting-started/introduction
+### Rename `.env.copy` to `.env` and put the API key there
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
